@@ -1,4 +1,4 @@
-Smartphone Addiction Analytics Dashboard
+Smartphone Usage, Digital Addiction & Well-Being Analytics
 
 Project Overview: This project analyzes smartphone usage data to identify patterns and factors associated with smartphone addiction. the project analyzes demographic, and lifestyle attributes such as 
 screen time, social media usage, gaming hours, notifications, app opens, sleep, stress, and academic/work impact.
